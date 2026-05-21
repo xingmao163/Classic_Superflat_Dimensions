@@ -1,6 +1,6 @@
 {
   "type": "minecraft:mineshaft",
-  "biomes": "#minecraft:has_structure/mineshaft",
+  "biomes": [],
   "mineshaft_type": "normal",
   "spawn_overrides": {},
   "step": "top_layer_modification"
