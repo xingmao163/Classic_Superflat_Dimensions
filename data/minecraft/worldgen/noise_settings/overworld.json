@@ -97,23 +97,6 @@
         "if_true": {
           "type": "minecraft:y_above",
           "anchor": {
-            "absolute": 63
-          },
-          "surface_depth_multiplier": 0,
-          "add_stone_depth": false
-        },
-        "then_run": {
-          "type": "minecraft:block",
-          "result_state": {
-            "Name": "minecraft:barrier"
-          }
-        }
-      },
-      {
-        "type": "minecraft:condition",
-        "if_true": {
-          "type": "minecraft:y_above",
-          "anchor": {
             "absolute": 0
           },
           "surface_depth_multiplier": 0,
